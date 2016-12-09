@@ -20,4 +20,5 @@ Instalacja NPM http://blog.teamtreehouse.com/install-node-js-npm-windows
 Instalacja i uruchomienie simplehttpserver https://www.npmjs.com/package/simplehttpserver
 
 b) gorsza, ale szybsza
+
 Jak komuś się nie chce tego instalować itp., to może bez serwera otworzyć plik admin.html w Firefoxie i też powinno działać, ale nie będzie ikonek. Na chrome nie zadziała, bo na Chrome nie można z lokalnych plików uruchamiać XHR.

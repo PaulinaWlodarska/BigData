@@ -11,10 +11,12 @@ a) lepsza - serwując pliki przez http
 
 Odpalenie serwera:
 
-Ja akurat mam na kompie Pytohona, więc wystarczy odpalić polecenie "python -m http.server NUMERPORTU" gdzie NUMERPORTU to dowolny numer - czasem na 80 nie działa, więc sugeruję inny
+Ja akurat mam na kompie Pythona, więc wystarczy odpalić polecenie "python -m http.server NUMERPORTU" gdzie NUMERPORTU to dowolny numer - czasem na 80 nie działa, więc sugeruję inny
 
 Jak ktoś nie ma pythona to może zainstalować sobie NPM, a potem simplehttpserver a robi się to tak (na Windowsie)
+
 Instalacja NPM http://blog.teamtreehouse.com/install-node-js-npm-windows
+
 Instalacja i uruchomienie simplehttpserver https://www.npmjs.com/package/simplehttpserver
 
 b) gorsza, ale szybsza
